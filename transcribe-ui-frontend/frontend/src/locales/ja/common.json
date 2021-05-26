@@ -1,0 +1,21 @@
+{
+  "title": "音声ファイルの文字起こしシステム",
+  "menu": "メニュー",
+  "dictation": "文字起こし",
+  "customVocabulary": "カスタム語彙",
+  "list": "一覧",
+  "add": "新規追加",
+  "loading": "ロード中...",
+  "inProgress": "進行中...",
+  "browserCompatible1": "対応ブラウザ : ",
+  "browserCompatible2": "Google Chrome / Microsoft Edge",
+  "japanese": "日本語",
+  "usEnglish": "アメリカ英語",
+  "ukEnglish": "イギリス英語",
+  "fileName": "ファイル名",
+  "fileSize": "サイズ (バイト)",
+  "cancel": "キャンセル",
+  "upload": "アップロード",
+  "notFound": "ページが見つかりませんでした",
+  "notFoundDescription": "URL を誤って入力していないかご確認ください"
+}

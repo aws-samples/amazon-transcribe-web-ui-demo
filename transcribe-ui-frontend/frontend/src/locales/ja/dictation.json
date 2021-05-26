@@ -1,0 +1,20 @@
+{
+  "fileName": "ファイル名",
+  "language": "言語",
+  "numberOfSpeakers": "人数",
+  "receiptAddress": "送信先メールアドレス",
+  "startDictation": "文字起こしを開始",
+  "chooseFile": "ファイル選択",
+  "validFileType": "有効なファイル形式 : MP3, MP4, WAV, FLAC, AMR, OGG, WebM",
+  "dictationConfig": "文字起こし設定",
+  "uploadDescription": "ここにアップロードするファイルをドラッグアンドドロップするか、[アップロード]をクリックします。",
+  "startDictationConfirm": "以下の設定で文字起こしを開始します。よろしいですか？",
+  "invalidEmailOver255Chars": "メールアドレスは 254 文字以下で入力してください",
+  "invalidEmailFormat": "メールアドレスの形式が正しくありません",
+  "invalidFileEmpty": "ファイルが選択されていません",
+  "invalidFileSize": "ファイルサイズは最大 2 GB までです",
+  "dictationRequestSucceeded": "文字起こしのリクエストを送信しました",
+  "dictationRequestDescription": "文字起こしの内容は完了次第メールで届きます。しばらくお待ち下さい。",
+  "dictationRequestFailed": "実行エラー",
+  "dictationRequestFailedDescription": "カスタム辞書を登録中の可能性が高い為、時間をおいて再実行してください。数回試してもエラーが改善しない場合は、管理者までお問合せください。"
+}

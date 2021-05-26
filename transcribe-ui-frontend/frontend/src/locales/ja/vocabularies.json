@@ -1,0 +1,23 @@
+{
+  "phrase": "フレーズ (発音)",
+  "display": "表示内容",
+  "addVocabulary": "カスタム語彙の追加",
+  "removeVocabulary": "カスタム語彙を削除",
+  "removeCheckedVocabulary": "チェックした語彙の削除",
+  "saveVocabulary": "カスタム語彙の保存",
+  "listVocabulary": "カスタム語彙一覧",
+  "add": "追加",
+  "remove": "取消",
+  "addConfirm": "語彙を追加します。よろしいですか？",
+  "removeConfirm": "チェックした語彙を削除します。よろしいですか？",
+  "addRequestSucceeded": "カスタム語彙の追加リクエストを送信しました",
+  "addRequestSucceededDescription": "語彙の反映には時間がかかります。",
+  "removeRequestSucceeded": "カスタム語彙の削除リクエストを送信しました",
+  "removeRequestSucceededDescription": "語彙の反映には時間がかかります。",
+  "notExists": "カスタム語彙がありません",
+  "invalidPhraseOver256Chars": "フレーズは 255 文字以下で入力してください",
+  "invalidPhraseRequired": "フレーズを入力してください",
+  "invalidPhraseNotKana": "フレーズはひらがなで入力してください",
+  "invalidDisplayOver256Chars": "表示内容は 255 文字以下で入力してください",
+  "invalidDisplayRequired": "表示内容を入力してください"
+}

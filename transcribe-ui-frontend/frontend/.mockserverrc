@@ -1,0 +1,5 @@
+{
+  "input": "src/mocks",
+  "outputExt": "ts",
+  "target": "es6"
+}
